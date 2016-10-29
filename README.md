@@ -1,2 +1,2 @@
 # reactjs
-Curso de Iniciación ReactJS. Readatomic
+Curso de Iniciación ReactJS. Redatomic
